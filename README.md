@@ -2,6 +2,8 @@
 ---
 ### AD LAB
 
+<img width="1024" height="585" alt="image" src="https://github.com/user-attachments/assets/8cd8cca5-aeca-4a54-aa4f-4d458f0e1038" />
+
 **Kompleksowa Administracja Systemami IT: Wdrożenie i Zarządzanie Środowiskiem Sieciowym**
 
 ---
