@@ -10,7 +10,7 @@
 
 ### **Opis Projektu**
 
-Ten projekt to demonstracja zaawansowanych umiejętności w administracji systemami IT. Polega na budowie i zarządzaniu złożonym środowiskiem sieciowym. Kluczowe elementy to konfiguracja serwera **Microsoft 2022**, wdrożenie **Active Directory** i **Domain Controllera** oraz automatyzacja zadań za pomocą **PowerShell**. Całe środowisko zostało stworzone w oparciu o **wirtualizację VMware**.
+ Kluczowe elementy to konfiguracja serwera **Microsoft 2022**, wdrożenie **Active Directory** i **Domain Controllera** oraz automatyzacja zadań za pomocą **PowerShell**. Całe środowisko zostało stworzone w oparciu o **wirtualizację VMware**.
 
 ---
 
